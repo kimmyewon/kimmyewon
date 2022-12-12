@@ -16,3 +16,7 @@ Back-end Developer, Web Developer
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=flat&logo=Thymeleaf&logoColor=white"/>
 </div>
 
+
+# 📊Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmyewon)](https://github.com/kimmyewon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyewon)](https://github.com/kimmyewon/github-readme-stats)
