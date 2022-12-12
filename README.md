@@ -1,8 +1,8 @@
-## 💡 About ME
+# 💡 About ME
 Back-end Developer, Web Developer
 
 
-## 🛠 Stacks
+# 🛠 Stacks
 <div>
   <img src="https://img.shields.io/badge/JAVA-ffbf00?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-5382a1?style=flat&logoColor=white"/>
